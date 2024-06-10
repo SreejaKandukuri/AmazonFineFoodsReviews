@@ -1,3 +1,2 @@
-# Machine-Learning-
 
 The advent of e-commerce has revolutionized the way consumers interact with products and services. One of the most significant aspects of this transformation is the proliferation of online reviews, which have become a vital source of information for potential buyers. This report focuses on the Amazon Fine Food Reviews dataset, which contains over 500,000 reviews of various food products. The primary objectives of this study are to perform sentiment analysis on these reviews and to develop a recommendation system that enhances the shopping experience by suggesting products based on user preferences.
